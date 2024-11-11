@@ -7,5 +7,17 @@
     "verification": "",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "udssrflame",
+            "percent": 100
+        },
+        {
+            "user": "MiningSword",
+            "percent": 100
+        },
+        {
+            "user": "OmriOn",
+            "percent": 100
+        }
     ]
 }

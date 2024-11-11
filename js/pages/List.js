@@ -80,7 +80,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks
+                        Achieved the record without using hacks (external tools, game modifications of which give an unfair advantage)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site

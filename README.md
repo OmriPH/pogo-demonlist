@@ -1,4 +1,4 @@
-# Welcome to the Geometry Dash Shitty List template!
+# Welcome to the Pogo Demonlist
 
 # FAQ
 
@@ -6,9 +6,9 @@
 
 ### Website FAQ
 
-Can I use the Shitty List template?
+What?
 
-- Sure. Credits to the shitty list are embedded onto this template so keep that in.
+- This is the demonlist for the Legitimoose world by Pevilion, a fishing world that also includes... POGO!
 
 The website isn't loading! What can I do?
 

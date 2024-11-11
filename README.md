@@ -37,12 +37,3 @@ What are some common reasons for the website not loading?
 - The most common cause is missing commas and inverted commas, or extra commas at the end of
   the last lines within list entries. A good way to find the error-causing lines can be found
   by using `Inspect Element` and going to the `Console` tab.
-
----
-
-## More Coming Soon!
-
-## Repo Maintainers:
-
-- Prometheus
-- Emonadeo
